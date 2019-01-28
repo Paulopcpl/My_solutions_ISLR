@@ -8,7 +8,7 @@ To see the rendered pages, click on the links below:
 
 **Chapter 3 - Linear Regression:** <a href="https://paulopcpl.github.io/My_solutions_ISLR/Lab_Chapter_3.html">Lab</a> and <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_3.html">Applied Exercises</a>.
 
-**Chapter 4 - Classification:**  <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_4.html">Applied Exercises</a>.
+**Chapter 4 - Classification:**  <a href="https://paulopcpl.github.io/My_solutions_ISLR/Lab_Chapter_4.html">Lab</a> and <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_4.html">Applied Exercises</a>.
 
 **Chapter 5 - Resampling Methods:** <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_5.html">Applied Exercises</a>.
 
