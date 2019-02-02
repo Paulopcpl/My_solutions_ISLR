@@ -12,7 +12,7 @@ To see the rendered pages, click on the links below:
 
 **Chapter 5 - Resampling Methods:**  <a href="https://paulopcpl.github.io/My_solutions_ISLR/Lab_Chapter_5.html">Lab</a> and <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_5.html">Applied Exercises</a>.
 
-**Chapter 6 - Linear Model Selection and Regularization:** <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_6.html">Applied Exercises</a>.
+**Chapter 6 - Linear Model Selection and Regularization:** <a href="https://paulopcpl.github.io/My_solutions_ISLR/Lab_Chapter_6.html">Lab</a> and <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_6.html">Applied Exercises</a>.
 
 **Chapter 7 - Moving Beyond Linearity:** <a href="https://paulopcpl.github.io/My_solutions_ISLR/Lab_Chapter_7.html">Lab</a> and <a href="https://paulopcpl.github.io/My_solutions_ISLR/Chapter_7.html">Applied Exercises</a>.
 
